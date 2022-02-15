@@ -1,0 +1,1 @@
+const videoOptions = [{"videoMode":"YOUTUBE","rewindStep":0.5,"potplayer":true}]
